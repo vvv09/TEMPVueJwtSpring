@@ -1,0 +1,13 @@
+target/
+.idea
+*.iml
+
+backend/target/**
+
+frontend/node
+frontend/node_modules
+frontend/dist
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+frontend/target/**
